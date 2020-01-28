@@ -23,7 +23,7 @@
     - Virtical Duckshot  ❌
     - Block hunt         ❌
     
-    ___
+___
 
 
 ### PRO Achievements:
